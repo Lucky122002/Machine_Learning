@@ -110,7 +110,7 @@ scikit-learn
 
 - Open and run the notebook:
   ```
-  Software models.ipynb
+  Hotel Booking Cancellation.ipynb
   ```
 
 - The notebook applies software reliability models on the booking dataset using visualization and machine learning libraries.
