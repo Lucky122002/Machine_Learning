@@ -34,8 +34,7 @@ macOS/Linux:
 ### 2. Clone the GitHub Repository
 
 ```bash
-git clone https://github.com/YourUsername/Software-Reliability-Models.git
-cd Software-Reliability-Models
+git clone https://github.com/Lucky122002/Machine_Learning.git
 ```
 
 ---
